@@ -1,0 +1,3 @@
+[submodule "backend/RealTimeChat"]
+	path = backend/RealTimeChat
+	url = https://github.com/DmitryShetinin/backend-part-of-social-network.git
